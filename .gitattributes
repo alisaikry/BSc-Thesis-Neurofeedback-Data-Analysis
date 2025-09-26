@@ -1,1 +1,2 @@
 MTgame-AuditoryFeedback/** filter=lfs diff=lfs merge=lfs -text
+MTgame-AuditoryFeedback.zip filter=lfs diff=lfs merge=lfs -text
