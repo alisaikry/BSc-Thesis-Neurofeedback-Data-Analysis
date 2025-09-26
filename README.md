@@ -1,15 +1,19 @@
 # BSc-Thesis-Neurofeedback-Data-Analysis
-This repository contains the files used to conduct statistical analysis and graph generation for the BSc thesis project on feedback modality in a gamified neurofeedback training environment
+This repository contains the files used to conduct statistical analysis for the BSc thesis project on Feedback Modality in a Gamified Neurofeedback Training Environment. The project incorporated auditory feedback into a Gamified Neurofeedback Environment to faciliate multi-modal feedback (auditory and visual). The source code of the Unity game (initially developed by Henriette Kohnen: @khnhenriette), with implemented auditory feedback, background music and live EEG data collection is included in this repository. 
 
+Gameplay footage, as well as audio source files and images of the game scenes can be accessed in the following Google Drive: https://drive.google.com/drive/folders/1c8Ly29xh6OBagUoHv5z83eVd0AZ3EQDF?usp=drive_link 
+
+## MTgamified-AuditoryFeedback
+Source code of the Neurofeedback Game. In order to effectively run the game and collect performance and EEG data, a g.tec [Unicorn Hybrid Black](https://www.gtec.at/product/unicorn-hybrid-black/) EEG headset is required. The built-in BCI classifier for Visually-Evoked Potentials is utilised in the Unity Neurofeedback game in order to allow mental in-game selections. 
 
 ## EEG Logs 
-- Raw EEG data collected during the neurofeedback training sessions for both conditions: Visual (V, unimodal) and Audio-Visual (AV, multimodal)
+Raw EEG data collected during the neurofeedback training sessions for both conditions: Visual (V, unimodal) and Audio-Visual (AV, multimodal)
 
 ## BCI Performance Data
-- Labelled BCI logs from the neurofeedback game for each of the game scenes (Autumn, Winter, Summer). Can be analysed to determine accuracy and perform analysis.
+Labelled BCI logs from the neurofeedback game for each of the game scenes (Autumn, Winter, Summer). Can be analysed to determine accuracy and perform analysis.
 
 ## BCI Performance Analysis 
-- Analysis of the BCI performance data using python.
+Analysis of the BCI performance data using python.
 
 ## GEQ Analysis 
-- Analysis of the Game Experience Questionnaire responses. Analysed using python. 
+Analysis of the [Game Experience Questionnaire](https://research.tue.nl/en/publications/the-game-experience-questionnaire) responses. Analysed using python. 
