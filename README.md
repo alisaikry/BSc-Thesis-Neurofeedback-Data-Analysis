@@ -3,7 +3,7 @@ This repository contains the files used to conduct statistical analysis for the 
 
 Gameplay footage, as well as audio source files and images of the game scenes can be accessed in the following Google Drive: https://drive.google.com/drive/folders/1c8Ly29xh6OBagUoHv5z83eVd0AZ3EQDF?usp=drive_link. In the Gameplay folder, the videos ending on 'gameplay' show real footage from pilot testing. The video ending in 'sim' shows a simulation of the Neurofeedback training game, when the EEG headset is not connected. Therefore, a cursor is used to make in-game selections. During data collection, selections were made mentally by the participants. 
 
-## MTgamified-AuditoryFeedback
+## MTgame-AuditoryFeedback
 Source code of the Neurofeedback Game. In order to effectively run the game and collect performance and EEG data, a g.tec [Unicorn Hybrid Black](https://www.gtec.at/product/unicorn-hybrid-black/) EEG headset is required. The built-in BCI classifier for Visually-Evoked Potentials is utilised in the Unity Neurofeedback game in order to allow mental in-game selections. 
 
 ## EEG Logs 
